@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to start app
+1. `git clone https://github.com/santaklouse/test-github-resume-creator.git`
+2. `cd test-github-resume-creator/`
+3. `npm i`
+4. `npm start`
+5. Open [http://localhost:3000](http://localhost:3000)
+
 ## Available Scripts
 
 In the project directory, you can run:
