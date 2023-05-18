@@ -1,0 +1,7 @@
+.loading-container {
+    width: 35px;
+}
+
+.description-text.text-truncate {
+    max-width: 65vw;
+}

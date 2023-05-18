@@ -1,0 +1,33 @@
+.chart-container {
+    display: flex;
+    justify-content: center;
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .apexcharts-graphical {
+        display: none !important;
+    }
+    .apexcharts-legend {
+        top: 0 !important;
+        left: 10% !important;
+    }
+    .chart-container {
+        display: block;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .apexcharts-graphical {
+        display: none !important;
+    }
+    .apexcharts-legend {
+        top: 0 !important;
+        left: 10% !important;
+    }
+    .chart-container {
+        display: block;
+    }
+}
+
